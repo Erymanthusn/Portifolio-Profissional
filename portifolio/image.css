@@ -1,0 +1,18 @@
+.image.featured img {
+    width: 350px;
+    height: 250px;
+    object-fit: cover; /* mantém proporção sem deformar */
+    display: block;
+    margin: 0 auto; /* centraliza */
+}
+
+#intro .logo img {
+    width: 350px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.eu{
+    width: 70px;
+    height: 50px;
+}
